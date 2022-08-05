@@ -8,7 +8,7 @@
 </p>
 
 
-> [Automated Multi Device whatsapp bot created](https://github.com/whiteshadowofficial) by [Mr.White Shadow](https://github.com/whiteshadowofficial)
+> [Automated Multi Device whatsapp bot created](https://github.com/whiteshadowofficial) by [Mr.White Shadow](https://github.com/unknownalien28/STEFANIE-BOT-MD)
 
 ----
 Setup bot in sinhala lanuage...👇
